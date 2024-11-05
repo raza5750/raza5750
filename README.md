@@ -14,7 +14,7 @@ I have been making game, interactive solutions and apps since 2015.
 *   🤝  I'm open to collaborating on Games, Interactive Solutions and Ideas that help earthlings!
 *   ⚡  I'm also working on my own indie game coming out in 2025!
 
-### Skills 
+Skills 
 <p align="left">
 [![C#](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
