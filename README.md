@@ -24,6 +24,14 @@
 
 ### 🧰 Tech Stack  
 
+#### 🧩 Core Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
+</p>
+
 #### 🎮 Game Engines & Frameworks  
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs" /></a>
