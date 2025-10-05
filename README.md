@@ -34,10 +34,13 @@
 
 #### 🎮 Game Engines & Frameworks  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs" /></a>
-  <img src="https://img.shields.io/badge/PhaserJS-FF6F00?style=flat&logo=javascript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PixiJS-8E44AD?style=flat&logo=javascript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/AR/VR-0D1117?style=flat&logo=oculus&logoColor=E63946" height="30"/>
+  <img src="assets/icons/unity.svg" height="30" alt="Unity"/>
+  <img src="assets/icons/unreal.svg" height="30" alt="Unreal"/>
+  <img src="assets/icons/godot.svg" height="30" alt="Godot"/>
+  <img src="assets/icons/threejs.svg" height="30" alt="Three.js"/>
+  <img src="assets/icons/phaser.svg" height="30" alt="PhaserJS"/>
+  <img src="assets/icons/pixijs.svg" height="30" alt="PixiJS"/>
+  <img src="assets/icons/arvr.svg" height="30" alt="AR/VR"/>
 </p>
 
 #### 💻 Web & App Development  
@@ -52,7 +55,9 @@
 
 #### 🧠 Tools & Design  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,figma,blender,gimp,inkscape" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,figma,blender" /></a>
+  <img src="assets/icons/gimp.svg" height="30" alt="GIMP"/>
+  <img src="assets/icons/inkscape.svg" height="30" alt="Inkscape"/>
 </p>
 
 ---
@@ -60,7 +65,7 @@
 ### 🕹 Featured Projects  
 
 | Project | Description | Tech |
-|----------|--------------|------|
+|---|---|---|
 | 🎯 [**Machinata Blitz**](https://nvg8.io) | Unity WebGL tactics game built for Base & Farcaster | Unity, WebGL, Base |
 | 🧬 [**DataQuest**](https://dataquest.nvg8.io) | Gamified data-annotation platform (200K+ users) | PhaserJS, Next.js, NestJS |
 | ⚔️ [**Ruffion Reborn**](https://ruffionreborn.xyz) | NFT deck-builder RPG on TreasureDAO | Unity, Web3, Polygon |
