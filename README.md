@@ -1,78 +1,81 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Raza
-================================================================================================================================
+<!-- =============================== -->
+<!--     ALI RAZA | TARC SOLUTIONS   -->
+<!-- =============================== -->
 
-Senior Software Engineer / Game Developer / Technical Project Manager
----------------------------------------------------------------------
-
-I have been making game, interactive solutions and apps since 2015.
-
-*   🌍  I'm based in Lahore, Pakistan
-*   🖥️  See my portfolio at Nothing to see here really :D
-*   ✉️  You can contact me at [ask@thealiraza.com](mailto:ask@thealiraza.com)
-*   🚀  I'm currently working on Navigate (NVG8)
-*   🧠  I'm learning React, Unreal Engine 5 and Game Design
-*   🤝  I'm open to collaborating on Games, Interactive Solutions and Ideas that help earthlings!
-*   ⚡  I'm also working on my own indie game coming out in 2025!
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+<h1 align="center">👋 Hi, I'm <span style="color:#E63946">Ali Raza</span></h1>
+<h3 align="center">🎮 Senior Software Engineer · Game Developer · Technical Project Manager</h3>
+<p align="center">
+  <b>Building Games, Web & Interactive Experiences since 2015</b><br/>
+  Founder of <a href="https://tarcsolutions.co" target="_blank"><b>TARC Solutions</b></a> | Based in Lahore, Pakistan 🇵🇰
 </p>
 
-### Socials
+---
 
-<p align="left">
-<a href="https://www.behance.com/raza5750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
-<a href="https://www.dev.to/raza5750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-<a href="https://discord.com/users/raza5750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/raza5750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/raza5750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/raza57501" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/raza5750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.x.com/raza5750" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.threads.net/@raza57501" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
+### 🚀 About Me  
+
+- 🎮 Currently working on [**Navigate (NVG8)**](https://nvg8.io)  
+- 🧠 Learning **React**, **Unreal Engine 5**, and **Game Design**  
+- 💡 Open to collaborating on **games, interactive apps, and creative tech ideas**  
+- ⚡ Developing my own **indie game** — launching **2025**  
+- 🌐 Portfolio → [**thealiraza.com**](https://thealiraza.com)  
+- ✉️ Email → [ask@thealiraza.com](mailto:ask@thealiraza.com)  
+
+---
+
+### 🧰 Tech Stack  
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=csharp,cpp,js,ts,react,nextjs,nodejs,nestjs,express,html,css,vite,webpack,unity,unreal,godot,mongodb,postgresql,firebase,aws,gcp,dotnet,git,github,figma,blender,ps,ai" /></a>
 </p>
 
-### Badges
-**My GitHub Stats**
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raza5750&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+### 🕹 Featured Projects  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raza5750&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🎯 [**Machinata Blitz**](https://nvg8.io) | Unity WebGL tactics game built for Base & Farcaster | Unity, WebGL, Base |
+| 🧬 [**DataQuest**](https://dataquest.nvg8.io) | Gamified data-annotation platform (200K+ users) | PhaserJS, Next.js, Node |
+| ⚔️ [**Ruffion Reborn**](https://ruffionreborn.xyz) | NFT deck-builder RPG on TreasureDAO | Unity, Web3, Polygon |
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=raza5750&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raza5750&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/raza5750)
+### 📊 GitHub Stats  
 
-### Support Me
-- [Buy Me a Coffee](https://www.buymeacoffee.com/raza5750)
-- [Ko-fi](https://www.ko-fi.com/raza5750)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raza5750&show_icons=true&theme=dark&title_color=E63946&icon_color=E63946&text_color=C5C6C7&bg_color=0D1117&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raza5750&layout=compact&theme=dark&title_color=E63946&text_color=C5C6C7&bg_color=0D1117&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raza5750&theme=dark&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C5C6C7&background=0D1117" height="150" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/raza5750"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://thealiraza.com"><img src="https://img.shields.io/badge/Website-0D1117?style=flat&logo=vercel&logoColor=E63946" /></a>
+  <a href="https://fiverr.com/thealiraza"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e0e62e0d8bb60a4d"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" /></a>
+  <a href="https://x.com/raza5750"><img src="https://img.shields.io/badge/X-0D1117?style=flat&logo=x&logoColor=E63946" /></a>
+  <a href="https://instagram.com/raza57501"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat&logo=instagram&logoColor=E63946" /></a>
+  <a href="https://threads.net/@raza57501"><img src="https://img.shields.io/badge/Threads-0D1117?style=flat&logo=threads&logoColor=E63946" /></a>
+</p>
+
+---
+
+### ☕ Support My Work  
+
+<p align="center">
+  <a href="https://buymeacoffee.com/raza5750"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-E63946?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
+  <a href="https://ko-fi.com/raza5750"><img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=E63946" /></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>🛠️ Designed by <a href="https://thealiraza.com" style="color:#E63946"><b>Ali Raza</b></a> — <b>TARC Solutions</b> | Unity · Web · Game Development</sub>
+</p>
