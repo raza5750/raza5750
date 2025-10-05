@@ -27,9 +27,9 @@
 #### 🧩 Core Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
 </p>
 
 #### 🎮 Game Engines & Frameworks  
@@ -52,7 +52,7 @@
 
 #### 🧠 Tools & Design  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,figma,blender,ps,ai" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,figma,blender,gimp,inkscape" /></a>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🎯 [**Machinata Blitz**](https://nvg8.io) | Unity WebGL tactics game built for Base & Farcaster | Unity, WebGL, Base |
-| 🧬 [**DataQuest**](https://dataquest.nvg8.io) | Gamified data-annotation platform (200K+ users) | PhaserJS, Next.js, Node |
+| 🧬 [**DataQuest**](https://dataquest.nvg8.io) | Gamified data-annotation platform (200K+ users) | PhaserJS, Next.js, NestJS |
 | ⚔️ [**Ruffion Reborn**](https://ruffionreborn.xyz) | NFT deck-builder RPG on TreasureDAO | Unity, Web3, Polygon |
 
 ---
