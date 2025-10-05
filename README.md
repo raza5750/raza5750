@@ -24,8 +24,27 @@
 
 ### 🧰 Tech Stack  
 
+#### 🎮 Game Engines & Frameworks  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=csharp,cpp,js,ts,react,nextjs,nodejs,nestjs,express,html,css,vite,webpack,unity,unreal,godot,mongodb,postgresql,firebase,aws,gcp,dotnet,git,github,figma,blender,ps,ai" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=unity,unreal,godot,threejs" /></a>
+  <img src="https://img.shields.io/badge/PhaserJS-FF6F00?style=flat&logo=javascript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PixiJS-8E44AD?style=flat&logo=javascript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/AR/VR-0D1117?style=flat&logo=oculus&logoColor=E63946" height="30"/>
+</p>
+
+#### 💻 Web & App Development  
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,vite,webpack,nodejs,express,nestjs,graphql" /></a>
+</p>
+
+#### 🗄️ Databases & Cloud  
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws,gcp,dotnet" /></a>
+</p>
+
+#### 🧠 Tools & Design  
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,figma,blender,ps,ai" /></a>
 </p>
 
 ---
@@ -77,5 +96,5 @@
 ---
 
 <p align="center">
-  <sub>🛠️ Designed by <a href="https://thealiraza.com" style="color:#E63946"><b>Ali Raza</b></a> — <b>TARC Solutions</b> | Unity · Web · Game Development</sub>
+  <sub>🛠️ Designed by <a href="https://thealiraza.com" style="color:#E63946"><b>Ali Raza</b></a> — <b>TARC Solutions</b> | Unity · Web · AR/VR · Game Development</sub>
 </p>
